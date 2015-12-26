@@ -1,0 +1,1 @@
+I found the manufacturers editor a pain to use, so I developed an alternative editor.
